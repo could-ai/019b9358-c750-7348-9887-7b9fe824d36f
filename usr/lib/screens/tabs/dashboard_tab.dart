@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/data_models.dart';
+import '../../models/data_models.dart';
 
 class DashboardTab extends StatelessWidget {
   final List<StockHolding> holdings;
